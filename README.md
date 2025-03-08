@@ -66,9 +66,6 @@ NEXTAUTH_URL=http://localhost:3000
 
 Make sure the backend server is running on the specified port.
 
-## Developer
-
-### Chirag S Kotian
 
 Feel free to reach out for any questions or collaborations!
 
